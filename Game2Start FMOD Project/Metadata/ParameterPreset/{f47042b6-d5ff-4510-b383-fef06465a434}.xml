@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{f47042b6-d5ff-4510-b383-fef06465a434}">
+		<property name="name">
+			<value>Agitation</value>
+		</property>
+		<relationship name="folder">
+			<destination>{63c8e345-3b2e-4636-a13d-df51fde93529}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{e62359e9-7c5d-4f28-b4c6-0f8a7ee2467b}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{e62359e9-7c5d-4f28-b4c6-0f8a7ee2467b}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
